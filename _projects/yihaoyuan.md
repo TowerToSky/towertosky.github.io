@@ -5,5 +5,4 @@ description: Master Student
 img: /assets/img/yhy.jpg
 importance: 4
 category: Current
-# redirect: 
 ---
