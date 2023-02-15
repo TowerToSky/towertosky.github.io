@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.nwpu.edu.cn/'>西北工业大学</a>， <a herf='https://ruanjian.nwpu.edu.cn/'>软件学院</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xt.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <h3>徐韬 副教授</h3>
+    <p>Email:xutao@nwpu.edu.cn</p>
+    <p>Address:西安市长安区东祥路1号</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# social: true  # includes social icons at the bottom of the page
 ---
-做一些简单的小修改来进行测试
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<div class="row justify-content-sm-center">
+    {% include figure.html path="assets/img/carousel_1.png" class="img-fluid rounded z-depth-1" %}
+</div>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+ <em>智能感知交互实验室（Intelligent Interaction Laboratory）</em>2019年由徐韬教授和发起成立。该实验室的长期目标是理解人类大脑智能信息处理机理和认知过程，为信息技术提供新型的计算结构和算法。利用先进脑电设备、系统建模技术，研究新型的人机交互计算模型和算法。当前感兴趣的研究方向包括脑机接口、计算机视觉、图神经网络、生物信息学等。
+
+ 
