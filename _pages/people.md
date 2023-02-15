@@ -1,10 +1,10 @@
 ---
 layout: page
-title: people
+title: People
 permalink: /people/
 description:
 nav: true
-display_categories: [current, alumni]
+display_categories: [Current, Alumni]
 horizontal: false
 ---
 <div class="projects">
