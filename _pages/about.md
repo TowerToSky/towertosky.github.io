@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.nwpu.edu.cn/'>西北工业大学</a>， <a herf='https://ruanjian.nwpu.edu.cn/'>软件学院</a>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 # social: true  # includes social icons at the bottom of the page
 ---
 
